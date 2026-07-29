@@ -1,0 +1,11 @@
+{
+    "buildCommand": "",
+    "outputDirectory": ".",
+    "public": true,
+    "rewrites": [
+          {
+                  "source": "/",
+                  "destination": "/falcons-lair.html"
+          }
+    ]
+}
